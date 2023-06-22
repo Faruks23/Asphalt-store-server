@@ -1,0 +1,140 @@
+[
+  {
+    "seller": "John Doe",
+    "sellerEmail": "john.doe@example.com",
+    "toyName": "Go-Go Racer",
+    "category": "babyCar",
+    "price": 19.99,
+    "availableQuantity": 5,
+    "details": "Highly articulated robot figure with LED lights and sound effects.",
+    "rating": 4.5,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/3/9/3/393-home_default.jpg"
+  },
+  {
+    "seller": "Jane Smith",
+    "sellerEmail": "jane.smith@example.com",
+    "toyName": "Mini Speedster",
+    "category": "Playsets",
+    "price": 29.99,
+    "availableQuantity": 3,
+    "details": "A complete playset with jungle theme, featuring slides, swings, and a treehouse.",
+    "rating": 4.2,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/0/0/400-home_default.jpg"
+  },
+  {
+    "seller": "Mike Johnson",
+    "sellerEmail": "mike.johnson@example.com",
+    "toyName": "Turbo Tots",
+    "category": "Puzzles",
+    "price": 9.99,
+    "availableQuantity": 10,
+    "details": "A challenging puzzle cube with multiple layers for hours of fun.",
+    "rating": 4.7,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/0/6/406-home_default.jpg"
+  },
+  {
+    "seller": "Sarah Thompson",
+    "sellerEmail": "sarah.thompson@example.com",
+    "toyName": "Zoomie Wheels",
+    "category": "Stuffed Animals",
+    "price": 14.99,
+    "availableQuantity": 8,
+    "details": "Soft and cuddly plush dinosaur toy, perfect for bedtime snuggles.",
+    "rating": 4.8,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/1/4/414-home_default.jpg"
+  },
+
+
+
+  
+  {
+    "seller": "David Wilson",
+    "sellerEmail": "david.wilson@example.com",
+    "toyName": "Baby Glide",
+    "category": "Strollers",
+    "price": 24.99,
+    "availableQuantity": 12,
+    "details": "Set of 100 colorful building blocks for creative building and imaginative play.",
+    "rating": 4.6,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/2/1/421-home_default.jpg"
+  },
+  {
+    "seller": "David Wilson",
+    "sellerEmail": "david.wilson@example.com",
+    "toyName": "Strollin' Cruiser",
+    "category": "Strollers",
+    "price": 39.99,
+    "availableQuantity": 6,
+    "details": "Fast and maneuverable remote control car with realistic design and racing capabilities.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/2/8/428-home_default.jpg"
+  },
+  {
+    "seller": "Emily Davis",
+    "sellerEmail": "emily.davis@example.com",
+    "toyName": "Tot-Mobile",
+    "category": "Strollers",
+    "price": 12.99,
+    "availableQuantity": 15,
+    "details": "A comprehensive art set with various painting and drawing supplies.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/3/9/3/393-home_default.jpg"
+  },
+  {
+    "seller": "Michael Brown",
+    "sellerEmail": "michael.brown@example.com",
+    "toyName": "Cozy Rider",
+    "category": "Strollers",
+    "price": 29.99,
+    "availableQuantity": 7,
+    "details": "Build and program your own robot with this educational STEM toy.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/0/0/400-home_default.jpg"
+  },
+
+  
+  
+
+  {
+    "seller": "Sophia Clark",
+    "sellerEmail": "sophia.clark@example.com",
+    "toyName": "Rollin'Rover",
+    "category": "walkers",
+    "price": 49.99,
+    "availableQuantity": 4,
+    "details": "A 61-key electronic keyboard with various instrument sounds and built-in rhythms.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/4/2/442-home_default.jpg"
+  },
+  {
+    "seller": "Daniel Smith",
+    "sellerEmail": "daniel.smith@example.com",
+    "toyName": "Toddle Wheels",
+    "category": "walkers",
+    "price": 17.99,
+    "availableQuantity": 9,
+    "details": "A versatile building set with interlocking pieces for endless construction possibilities.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/5/6/456-home_default.jpg"
+  },
+  {
+    "toyName": "Speedy Strider",
+    "category": "walkers",
+    "price": 39.99,
+    "availableQuantity": 6,
+    "details": "A complete play kitchen set with realistic accessories for imaginative role-playing.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/2/8/428-home_default.jpg"
+  },
+  {
+    "seller": "Olivia Johnson",
+    "sellerEmail": "olivia.johnson@example.com",
+    "toyName": "Walkie Rider",
+    "category": "walkers",
+    "price": 24.99,
+    "availableQuantity": 11,
+    "details": "A classic wooden train set with tracks, trains, and accessories.",
+    "rating": 4.4,
+    "photo": "https://demoprestashop.aeipix.com/AX06/mixeat115/shop4/img/p/4/3/5/435-home_default.jpg"
+  }
+]
